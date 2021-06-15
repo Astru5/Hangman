@@ -1,5 +1,4 @@
-#Date: June 12
-#hangman
+#Hangman Game
 
 #Repeat
 repeatWhole=0
