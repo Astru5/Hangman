@@ -1,4 +1,3 @@
-#Author: Justin
 #Date: June 12
 #hangman
 
